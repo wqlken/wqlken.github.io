@@ -2,23 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wqlken.github.io/2024/02/12/Test/</loc>
+    <loc>https://wqlken.github.io/2024/02/12/%E5%AE%89%E8%A3%85python3.8.2/</loc>
     
-    <lastmod>2024-02-12T07:48:12.523Z</lastmod>
+    <lastmod>2024-02-12T09:49:31.387Z</lastmod>
     
-    <date>1707724092000</date>
-    <title>Test | Ken</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://wqlken.github.io/2024/02/12/My-New-Post/</loc>
-    
-    <lastmod>2024-02-12T07:45:56.614Z</lastmod>
-    
-    <date>1707723956000</date>
-    <title>My New Post | Ken</title>
+    <date>1707731406656</date>
+    <title>CentOS下python3.8.2安装 | Ken</title>
     
     <desc></desc>
   </url>
@@ -63,17 +52,6 @@
     
     <date>1707710077000</date>
     <title>tags | Ken</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>https://wqlken.github.io/2024/02/12/hello-world/</loc>
-    
-    <lastmod>2024-02-12T01:17:58.135Z</lastmod>
-    
-    <date>1707700678135</date>
-    <title>Hello World | Ken</title>
     
     <desc></desc>
   </url>
