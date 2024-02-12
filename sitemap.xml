@@ -4,75 +4,78 @@
   <url>
     <loc>https://wqlken.github.io/2024/02/12/Test/</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T07:48:12.523Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707724092000</date>
+    <title>Test | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/2024/02/12/My-New-Post/</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T07:45:56.614Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707723956000</date>
+    <title>My New Post | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/404/index.html</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T03:56:30.710Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707710190000</date>
+    <title>404 | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/about/index.html</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T03:56:23.699Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707710183000</date>
+    <title>about | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/categories/index.html</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T03:55:29.510Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707710129000</date>
+    <title>categories | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/tags/index.html</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T03:54:37.978Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707710077000</date>
+    <title>tags | Ken</title>
+    
+    <desc></desc>
   </url>
   
   <url>
     <loc>https://wqlken.github.io/2024/02/12/hello-world/</loc>
     
-    <lastmod>2024-02-12</lastmod>
+    <lastmod>2024-02-12T01:17:58.135Z</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <date>1707700678135</date>
+    <title>Hello World | Ken</title>
+    
+    <desc></desc>
   </url>
-  
-
-  <url>
-    <loc>https://wqlken.github.io/</loc>
-    <lastmod>2024-02-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  
-
   
 </urlset>
